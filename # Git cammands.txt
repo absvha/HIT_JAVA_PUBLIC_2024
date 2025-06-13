@@ -3,7 +3,8 @@
 * git config --global user.email "email"
 * git config --global user.password "pass"
 * git init
-* git remote origin master linkgithub.git
+* git remote
+ origin master linkgithub.git
 * git add.
 *git commit -m "first commit"
 *git push origin
